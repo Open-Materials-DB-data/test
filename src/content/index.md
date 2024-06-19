@@ -1,8 +1,8 @@
 ---
-Title: Data for template paper title
+Title: Data for test
 ---
 
-# Data for template paper title
+# Data for test
 
 *Template Author* <sup>1</sup>, and *Other Template Author* <sup>2</sup>
 
